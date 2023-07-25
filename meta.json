@@ -1,0 +1,35 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Kim Yuna",
+        "email": "yuna@example.com",
+        "address": {
+          "street": "123 Main St",
+          "city": "Seoul",
+          "country": "South Korea"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Park Ji Sung",
+        "email": "jisung@example.com",
+        "address": {
+          "street": "456 High St",
+          "city": "Seoul",
+          "country": "South Korea"
+        }
+      },
+      {
+        "id": 3,
+        "name": "Son Heung Min",
+        "email": "heungmin@example.com",
+        "address": {
+          "street": "789 Park Ave",
+          "city": "Seoul",
+          "country": "South Korea"
+        }
+      }
+    ]
+  }
+  
